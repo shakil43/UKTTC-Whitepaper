@@ -4,7 +4,7 @@ Version 1.0 | February 2025
 
 1. Introduction
 
-The UKTrend Treasures Coin (UKTTC) is a revolutionary Solana-based token designed to power e-commerce transactions on Uktrendtreasurs.co.uk. It enables seamless shopping, exclusive discounts, and a strong community-driven ecosystem while promoting decentralized finance (DeFi).
+The UKTrend Treasures Coin (UKTTC) is a revolutionary Solana-based token designed to power e-commerce transactions on Uktrendtreasures.co.uk. It enables seamless shopping, exclusive discounts, and a strong community-driven ecosystem while promoting decentralized finance (DeFi).
 
 2. Market Overview
 
@@ -40,7 +40,7 @@ Mission
 
 4.1 E-Commerce Integration
 
-UKTTC is the official payment method for Uktrendtreasurs.co.uk, offering:✅ Discounts & Cashback for UKTTC transactions.✅ Fast & Secure transactions with Solana’s low fees.✅ Loyalty Rewards for frequent buyers.
+UKTTC is the official payment method for Uktrendtreasures.co.uk, offering:✅ Discounts & Cashback for UKTTC transactions.✅ Fast & Secure transactions with Solana’s low fees.✅ Loyalty Rewards for frequent buyers.
 
 4.2 Staking & Rewards (Upcoming Feature 🚀)
 
@@ -98,11 +98,11 @@ More burns will happen based on trading volume and community milestones.
 
 8. How to Buy UKTTC?
 
-🔹 Trade UKTTC on Solana-based DEX platforms.🔹 Visit Uktrendtreasurs.co.uk to shop with UKTTC.🔹 Follow official social media for updates & promotions.
+🔹 Trade UKTTC on Solana-based DEX platforms.🔹 Visit Uktrendtreasures.co.uk to shop with UKTTC.🔹 Follow official social media for updates & promotions.
 
 9. Community & Social Links
 
-📢 Website: Uktrendtreasurs.co.uk📢 Telegram Channel: https://t.me/Uktrend_Treasures_UKTTC📢 Telegram Chat: https://t.me/+q5WXciAFBiMyMmE0📈 Track on DexTools: View Chart & Trades💰 Grow Your Investments on Raydium: Provide Liquidity
+📢 Website: Uktrendtreasures.co.uk📢 Telegram Channel: https://t.me/Uktrend_Treasures_UKTTC📢 Telegram Chat: https://t.me/+q5WXciAFBiMyMmE0📈 Track on DexTools: View Chart & Trades💰 Grow Your Investments on Raydium: Provide Liquidity
 
 10. Conclusion
 
